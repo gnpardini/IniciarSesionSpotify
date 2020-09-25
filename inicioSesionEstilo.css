@@ -1,0 +1,147 @@
+body{
+    background-color:#ffffff;
+}
+
+img{
+
+    margin:20px auto;
+    display:block;
+    position: relative;
+    right: 20px;
+}
+
+hr{
+    background-color: #3A3835;
+}
+.Facebook{
+
+    text-decoration: none;
+    color:#ffffff;
+    background-color: #3b5988;
+    padding-right: 110px;
+    padding-bottom: 12px;
+    padding-left: 140px;
+    padding-top:12px;
+    position:relative;
+    left:700px;
+    border-radius:30px;
+    
+}
+
+.Apple{
+    text-decoration: none;
+    color:#ffffff;
+    background-color:#000000;
+    padding-right:144px;
+    padding-bottom: 13px;
+    padding-left: 144px;
+    padding-top: 13px;
+    position:relative;
+    left:700px;
+    border-radius:30px;
+    line-height: 10px;
+    
+    
+
+}
+
+.telefono{
+    text-decoration: none;
+    color: #66625d;
+    background-color:#ffffff;
+    padding-right: 52px;
+    padding-bottom: 10px;
+    padding-left: 94px;
+    padding-top: 11px;
+    position:relative;
+    left:700px;
+    border:solid 2px #66625d;
+    border-radius: 30px;
+    
+    
+}
+
+.linea{
+    width:25%;
+    position:relative;
+    left:16px;
+    background-color: #3A3835;
+    
+    
+}
+
+div{
+
+    text-align: center;
+    position:relative;
+    right:70px;
+}
+
+input{
+    
+    padding-right: 80px;
+    width:20%;
+    position:relative;
+    left:90px;
+    height: 40px;
+    font-size: 15px;
+    border:solid 1px #cabebe;
+}
+
+.contraseña{
+    position:relative;
+    right:95px;
+}
+
+.RecuperoDeContraseña{
+
+    color:#838281;
+    position:relative;
+    right:40px;
+}
+
+div button{
+
+    background-color: #1DB954;
+    color:#ffffff;
+    font-weight: bold;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 30px;
+    border:#ffffff;
+    margin:10px;
+    position:relative;
+    left:70px;
+    width:220px;
+}
+
+.texto{
+    text-align: center;
+}
+
+.registro{
+
+    text-decoration: none;
+    position: relative;
+    left:700px;
+    color:#66625d;
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 130px;
+    padding-right: 140px;
+    border-radius: 40px;
+    border:solid 2px #66625d;
+    
+}
+
+footer{
+    color:#61605e;
+    text-align:center;
+    font-size: small;
+}
+
+.pie{
+
+    color:#61605e;
+}
